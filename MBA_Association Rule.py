@@ -9,7 +9,6 @@
 |Adha Abdullah|2206053921|Terlibat aktif diskusi, membuat interpretasi bagian EDA|100%|
 
 # **Informasi Data**
-
 Data yang digunakan untuk study case ini berasal dari https://www.kaggle.com/datasets/timchant/supstore-dataset-2019-2022/data. Dataset terdiri dari catatan penjualan komprehensif dari sebuah superstore, yang berisi 9.994 entri di 19 kolom berbeda. Ini mencakup berbagai kategori seperti detail pesanan, informasi pelanggan anonim, spesifikasi produk, dan metrik keuangan. Keterangan untuk setiap kolomnya adalah sebagai berikut
 
 1.   Order ID : Nomor unik yang mengidentifikasi setiap pesanan atau transaksi yang dilakukan.
