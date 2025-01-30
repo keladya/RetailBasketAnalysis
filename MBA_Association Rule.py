@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-# **Study Case Association Rule**
-## <left><h2><strong><font color="lightseagreen">Kelompok 2</font></strong></h2></left>
-|Nama|NPM|Kontribusi|Tingkat Kontribusi
-|---|---|---|---|
-|Kayla Zahira Amadya|2206053890|Terlibat aktif diskusi, melakukan analisis MBA|100%|
-|Najwa Putri Faradila|2206051355|Terlibat aktif diskusi, mencari data, melakukan preprocessing|100%|
-|Fauzan Adzhima Alamsyah|1906376804|Terlibat aktif diskusi, membuat interpretasi analisis data MBA|100%|
-|Adha Abdullah|2206053921|Terlibat aktif diskusi, membuat interpretasi bagian EDA|100%|
-
 # **Informasi Data**
 Data yang digunakan untuk study case ini berasal dari https://www.kaggle.com/datasets/timchant/supstore-dataset-2019-2022/data. Dataset terdiri dari catatan penjualan komprehensif dari sebuah superstore, yang berisi 9.994 entri di 19 kolom berbeda. Ini mencakup berbagai kategori seperti detail pesanan, informasi pelanggan anonim, spesifikasi produk, dan metrik keuangan. Keterangan untuk setiap kolomnya adalah sebagai berikut
 
